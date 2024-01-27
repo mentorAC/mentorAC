@@ -64,11 +64,11 @@
 </p>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mentorac&show_icons=true&locale=en&theme=dark&bg_color=1F222E" alt="mentorac" />
-<a href="https://github.com/mentorac/mentorac">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mentorac&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mentorAC&show_icons=true&locale=en&theme=dark&bg_color=1F222E" alt="mentorAC" />
+<a href="https://github.com/mentorac">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mentorAC&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
   </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mentorac&theme=dark&bg_color=1F222E" alt="mentorac" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mentorac&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=1F222E" alt="mentorac" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mentorAC&theme=dark&bg_color=1F222E" alt="mentorac" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mentorAC&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=1F222E" alt="mentorac" />
 </p>
