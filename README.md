@@ -65,7 +65,7 @@
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mentorAC&show_icons=true&locale=en&theme=dark&bg_color=1F222E" alt="mentorAC" />
-<a href="https://github.com/mentorac">
+<a href="https://github.com/mentorAC">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mentorAC&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
   </p>
